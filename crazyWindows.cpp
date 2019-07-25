@@ -1,3 +1,6 @@
+//Crazy Windows
+//(C) 2019 Ariel Roque 
+
 #include <iostream>
 #include <cstdlib>
 #include <chrono>
@@ -15,7 +18,7 @@ void crazyCursor(){
 int main(){
 	int startTime,durationTime;
 	
-	cout << "Time to start in seconds: (Ex: 10)" << endl;
+	cout << "Start time in seconds: (Ex: 10)" << endl;
 	cin >> startTime;
 	cout << "Duration time in seconds: (Ex: 40)" << endl;
 	cin >> durationTime;
