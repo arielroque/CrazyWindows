@@ -4,5 +4,5 @@ A fun C++ program to play with family and friends by letting your Windows operat
 
 ## Features
   - Set duration time
-  - Enabled Mouse uncontrolled
-  - Audible Beep 
+  - Enabled mouse uncontrolled
+  - Audible beep 
