@@ -2,7 +2,7 @@
 
 A fun C++ program to play with family and friends by letting your Windows operating system crazy.
 
-##Features
+## Features
   - Set duration time
   - Enabled Mouse uncontrolled
   - Audible Beep 
