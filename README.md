@@ -1,3 +1,8 @@
 # CrazyWindows
 
-A fun C ++ program to play with family and friends by letting your mouse cursor and sound crazy on the Windows operating system.
+A fun C++ program to play with family and friends by letting your Windows operating system crazy.
+
+##Features
+  - Set duration time
+  - Enabled Mouse uncontrolled
+  - Audible Beep 
